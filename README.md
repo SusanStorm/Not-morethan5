@@ -22,6 +22,8 @@ Simply users have to guess the name of animals.On screen they are able to see th
 ![Screenshot (77)](https://github.com/SusanStorm/Not-morethan5/assets/114725350/d61abc1e-2ad5-43c1-b68b-913f932752a9)
 ![Screenshot (78)](https://github.com/SusanStorm/Not-morethan5/assets/114725350/058188dc-dfae-4fe2-a82a-114378b20ad1)
 ![Screenshot (79)](https://github.com/SusanStorm/Not-morethan5/assets/114725350/c0870952-37c3-49b6-98d0-19e527bdf7ea)
+![Screenshot (81)](https://github.com/SusanStorm/Not-morethan5/assets/114725350/52c07082-5929-461c-9137-5feacdbbf653)
+
 
 ## Link
 https://susanstorm.github.io/Not-morethan5/
